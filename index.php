@@ -1,5 +1,20 @@
-<button type="button" href="NosValeurs.html">FEUR</button>
+<!DOCTYPE html>
+<html lang=en>
+  <head>
+    
+  </head>
+  
+  <body>
+    <header>
+      <button type="button" href="NosValeurs.html">FEUR</button>
+    </header>
 
-<?php
-  echo "feur";
-?>
+    <main>
+      <p>test</p>
+    </main>
+
+    <footer>
+      
+    </footer>
+  </body>
+</html>
