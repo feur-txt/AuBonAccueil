@@ -10,7 +10,6 @@
     </header>
 
     <main>
-      <p>test</p>
     </main>
 
     <footer>
